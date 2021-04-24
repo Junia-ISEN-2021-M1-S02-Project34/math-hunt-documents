@@ -1,0 +1,262 @@
+[
+  {
+    "_id": {"$oid": "6065b89b1f4ce1a1ca4cf7bc"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-01T12:12:11.734Z"},
+    "enigmaId": {"$oid": "606321de67829e7540fbea1b"},
+    "isMcq": false,
+    "solution": "Test",
+    "updatedAt": {"$date": "2021-04-01T12:12:11.734Z"}
+  },
+  {
+    "_id": {"$oid": "60670fe73a8d8927b4014b15"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-02T12:36:55.118Z"},
+    "enigmaId": {"$oid": "6063223667829e7540fbea1f"},
+    "isMcq": true,
+    "solution": "Blanc",
+    "updatedAt": {"$date": "2021-04-02T12:36:55.118Z"}
+  },
+  {
+    "_id": {"$oid": "607012ca093fa400166ed299"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-09T08:39:38.209Z"},
+    "enigmaId": {"$oid": "607012b5093fa400166ed297"},
+    "isMcq": true,
+    "solution": "45",
+    "updatedAt": {"$date": "2021-04-09T08:39:38.209Z"}
+  },
+  {
+    "_id": {"$oid": "607595339b22510016f4ff49"},
+    "__v": 0,
+    "attemptsNumber": 1,
+    "createdAt": {"$date": "2021-04-13T12:57:23.463Z"},
+    "enigmaId": {"$oid": "607595269b22510016f4ff47"},
+    "isMcq": true,
+    "solution": "4",
+    "updatedAt": {"$date": "2021-04-13T12:57:23.463Z"}
+  },
+  {
+    "_id": {"$oid": "607d7f6eee44240016d4dbda"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T13:02:38.140Z"},
+    "enigmaId": {"$oid": "607d7f57ee44240016d4dbd8"},
+    "isMcq": false,
+    "solution": "7",
+    "updatedAt": {"$date": "2021-04-19T13:02:38.140Z"}
+  },
+  {
+    "_id": {"$oid": "607d81c2ee44240016d4dbe4"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T13:12:34.456Z"},
+    "enigmaId": {"$oid": "607d8191ee44240016d4dbe2"},
+    "isMcq": false,
+    "solution": "9065",
+    "updatedAt": {"$date": "2021-04-19T13:12:34.456Z"}
+  },
+  {
+    "_id": {"$oid": "607d85b5ee44240016d4dbf8"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T13:29:25.922Z"},
+    "enigmaId": {"$oid": "607d855aee44240016d4dbf6"},
+    "isMcq": true,
+    "solution": "35",
+    "updatedAt": {"$date": "2021-04-19T13:29:25.922Z"}
+  },
+  {
+    "_id": {"$oid": "607d88c6ee44240016d4dc35"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T13:42:30.127Z"},
+    "enigmaId": {"$oid": "607d88aeee44240016d4dc33"},
+    "isMcq": false,
+    "solution": "4.12.50",
+    "updatedAt": {"$date": "2021-04-19T13:42:30.127Z"}
+  },
+  {
+    "_id": {"$oid": "607d8a5dee44240016d4dc3e"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T13:49:17.318Z"},
+    "enigmaId": {"$oid": "607d8a0fee44240016d4dc3c"},
+    "isMcq": false,
+    "solution": "1,23",
+    "updatedAt": {"$date": "2021-04-21T13:03:06.949Z"}
+  },
+  {
+    "_id": {"$oid": "607d8b93ee44240016d4dc46"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T13:54:27.673Z"},
+    "enigmaId": {"$oid": "607d8b73ee44240016d4dc44"},
+    "isMcq": false,
+    "solution": "8718",
+    "updatedAt": {"$date": "2021-04-19T13:54:27.673Z"}
+  },
+  {
+    "_id": {"$oid": "607d9451ee44240016d4dc4f"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T14:31:45.368Z"},
+    "enigmaId": {"$oid": "607d9434ee44240016d4dc4d"},
+    "isMcq": false,
+    "solution": "47",
+    "updatedAt": {"$date": "2021-04-19T14:31:45.368Z"}
+  },
+  {
+    "_id": {"$oid": "607d9619ee44240016d4dc55"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T14:39:21.490Z"},
+    "enigmaId": {"$oid": "607d9592ee44240016d4dc53"},
+    "isMcq": true,
+    "solution": "22",
+    "updatedAt": {"$date": "2021-04-19T14:39:21.490Z"}
+  },
+  {
+    "_id": {"$oid": "607d9741ee44240016d4dc69"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T14:44:17.600Z"},
+    "enigmaId": {"$oid": "607d970eee44240016d4dc67"},
+    "isMcq": false,
+    "solution": "7",
+    "updatedAt": {"$date": "2021-04-19T14:44:17.600Z"}
+  },
+  {
+    "_id": {"$oid": "607d98ccee44240016d4dc71"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T14:50:52.526Z"},
+    "enigmaId": {"$oid": "607d9885ee44240016d4dc6f"},
+    "isMcq": false,
+    "solution": "1,2",
+    "updatedAt": {"$date": "2021-04-19T14:50:52.526Z"}
+  },
+  {
+    "_id": {"$oid": "607d9b3dee44240016d4dc79"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:01:17.828Z"},
+    "enigmaId": {"$oid": "607d99c9ee44240016d4dc77"},
+    "isMcq": false,
+    "solution": "64",
+    "updatedAt": {"$date": "2021-04-19T15:01:17.828Z"}
+  },
+  {
+    "_id": {"$oid": "607d9ca3ee44240016d4dc82"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:07:15.519Z"},
+    "enigmaId": {"$oid": "607d9c6aee44240016d4dc80"},
+    "isMcq": true,
+    "solution": "11",
+    "updatedAt": {"$date": "2021-04-19T15:07:15.519Z"}
+  },
+  {
+    "_id": {"$oid": "607d9dfeee44240016d4dc98"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:13:02.382Z"},
+    "enigmaId": {"$oid": "607d9d6cee44240016d4dc96"},
+    "isMcq": true,
+    "solution": "30",
+    "updatedAt": {"$date": "2021-04-19T15:13:02.382Z"}
+  },
+  {
+    "_id": {"$oid": "607da00eee44240016d4dcb1"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:21:50.069Z"},
+    "enigmaId": {"$oid": "607d9f09ee44240016d4dcaf"},
+    "isMcq": true,
+    "solution": "17h51",
+    "updatedAt": {"$date": "2021-04-19T15:21:50.069Z"}
+  },
+  {
+    "_id": {"$oid": "607da217ee44240016d4dccd"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:30:31.425Z"},
+    "enigmaId": {"$oid": "607da209ee44240016d4dccb"},
+    "isMcq": false,
+    "solution": "4",
+    "updatedAt": {"$date": "2021-04-19T15:30:31.425Z"}
+  },
+  {
+    "_id": {"$oid": "607da318ee44240016d4dcd5"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:34:48.836Z"},
+    "enigmaId": {"$oid": "607da2eeee44240016d4dcd3"},
+    "isMcq": false,
+    "solution": "19410,6",
+    "updatedAt": {"$date": "2021-04-19T15:34:48.836Z"}
+  },
+  {
+    "_id": {"$oid": "607da44a83a3790016951eaa"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:39:54.454Z"},
+    "enigmaId": {"$oid": "607da43083a3790016951ea8"},
+    "isMcq": false,
+    "solution": "2004",
+    "updatedAt": {"$date": "2021-04-19T15:39:54.454Z"}
+  },
+  {
+    "_id": {"$oid": "607da55583a3790016951eb4"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:44:21.442Z"},
+    "enigmaId": {"$oid": "607da54a83a3790016951eb2"},
+    "isMcq": false,
+    "solution": "420",
+    "updatedAt": {"$date": "2021-04-19T15:44:21.442Z"}
+  },
+  {
+    "_id": {"$oid": "607da62a83a3790016951ebc"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:47:54.619Z"},
+    "enigmaId": {"$oid": "607da60c83a3790016951eba"},
+    "isMcq": false,
+    "solution": "2000",
+    "updatedAt": {"$date": "2021-04-19T15:47:54.619Z"}
+  },
+  {
+    "_id": {"$oid": "607da73c83a3790016951ec2"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:52:28.538Z"},
+    "enigmaId": {"$oid": "607da6be83a3790016951ec0"},
+    "isMcq": true,
+    "solution": "34",
+    "updatedAt": {"$date": "2021-04-19T15:52:28.538Z"}
+  },
+  {
+    "_id": {"$oid": "607da80983a3790016951ed8"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T15:55:53.399Z"},
+    "enigmaId": {"$oid": "607da7f083a3790016951ed6"},
+    "isMcq": false,
+    "solution": "185",
+    "updatedAt": {"$date": "2021-04-19T15:55:53.399Z"}
+  },
+  {
+    "_id": {"$oid": "607da9c683a3790016951ee2"},
+    "__v": 0,
+    "attemptsNumber": 3,
+    "createdAt": {"$date": "2021-04-19T16:03:18.091Z"},
+    "enigmaId": {"$oid": "607da94383a3790016951ee0"},
+    "isMcq": false,
+    "solution": "3",
+    "updatedAt": {"$date": "2021-04-19T16:03:18.091Z"}
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "_id": {"$oid": "607d758eee44240016d4db4f"},
+    "__v": 0,
+    "createdAt": {"$date": "2021-04-19T12:20:30.951Z"},
+    "name": "Quartier de la Grand Place",
+    "pictureUrl": "https://lvdneng-rosselcdn-net.cdn.ampproject.org/i/s/lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/03/18/node_728068/46180864/public/2020/03/18/B9722965830Z.1_20200318091839_000%2BGBIFOC4VP.2-0.jpg?itok=yCS2gcJC1584520534",
+    "positionX": 50.636705844185805,
+    "positionY": 3.0636602639606285,
+    "radius": 50,
+    "updatedAt": {"$date": "2021-04-19T12:27:16.553Z"}
+  },
+  {
+    "_id": {"$oid": "607d768eee44240016d4db51"},
+    "__v": 0,
+    "createdAt": {"$date": "2021-04-19T12:24:46.043Z"},
+    "name": "Quartier du Vieux Lille",
+    "pictureUrl": "https://www.zoomsurlille.fr/wp-content/uploads/2020/11/monument_2020_cathedrale_01.jpg?fbclid=IwAR0wuJZl0DFkf--NniqKtKt0r1R-O8HOJHquE1dvaOV_UNP-h8ikb5U1f1o",
+    "positionX": 50.63999008640991,
+    "positionY": 3.0622386931827354,
+    "radius": 60,
+    "updatedAt": {"$date": "2021-04-19T12:28:15.432Z"}
+  },
+  {
+    "_id": {"$oid": "607d77b9ee44240016d4db96"},
+    "__v": 0,
+    "createdAt": {"$date": "2021-04-19T12:29:45.897Z"},
+    "name": "Quartier des gares",
+    "pictureUrl": "http://img.over-blog.com/500x332/4/42/43/10/si-jetais/phantasia/IMGP6948.JPG",
+    "positionX": 50.63691451833593,
+    "positionY": 3.0725526805326813,
+    "radius": 100,
+    "updatedAt": {"$date": "2021-04-19T12:29:45.897Z"}
+  },
+  {
+    "_id": {"$oid": "607d788bee44240016d4db98"},
+    "__v": 0,
+    "createdAt": {"$date": "2021-04-19T12:33:15.140Z"},
+    "name": "Quartier de l'Hôtel de ville",
+    "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lille_mairie_face.jpg/822px-Lille_mairie_face.jpg",
+    "positionX": 50.63002551362829,
+    "positionY": 3.069376945386467,
+    "radius": 100,
+    "updatedAt": {"$date": "2021-04-19T12:56:15.713Z"}
+  },
+  {
+    "_id": {"$oid": "607d795cee44240016d4db9a"},
+    "__v": 0,
+    "createdAt": {"$date": "2021-04-19T12:36:44.955Z"},
+    "name": "Quartier République",
+    "pictureUrl": "https://p.monumentum.fr/main/59/pa00107726-statue-faidherbe.jpg",
+    "positionX": 50.63195825698893,
+    "positionY": 3.0618345736365886,
+    "radius": 50,
+    "updatedAt": {"$date": "2021-04-19T12:36:44.955Z"}
+  },
+  {
+    "_id": {"$oid": "607d7dd7ee44240016d4dbd5"},
+    "__v": 0,
+    "createdAt": {"$date": "2021-04-19T12:55:51.867Z"},
+    "name": "Quartier Vauban",
+    "pictureUrl": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/1242356/lille-pigeons_0006_54c16f2b48d87_mbvbpx.jpg",
+    "positionX": 50.63826860960974,
+    "positionY": 3.0512559412818523,
+    "radius": 100,
+    "updatedAt": {"$date": "2021-04-19T13:08:23.961Z"}
+  }
+]
